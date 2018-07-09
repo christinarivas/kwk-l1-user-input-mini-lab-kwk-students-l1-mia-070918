@@ -13,4 +13,4 @@ eat = gets.chomp
 
 # Lastly, puts it all back by interpolating these values in a string.
 
-puts "You will have so much fun in #{stay}"
+puts "You will have so much fun in #{stay} and eating #{eat}"
